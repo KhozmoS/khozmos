@@ -1,5 +1,4 @@
-### Hi there 👋
-#### 🔭 I’m currently working on Vlue LLC as a frontend engineer.
+### Hi there 👋.
 
 <!--
 **KhozmoS/khozmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
