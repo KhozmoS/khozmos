@@ -1,5 +1,10 @@
 ### Hi there 👋.
+I'm a 25 years old software engineer currently working as frontend developer in VLUE LLC.
 
+I enjoy my weekends participating in programming competitions 🥇 (most part of the time in  [CodeForces](https://codeforces.com/profile/KhozmoS)),
+or playing some video games 🎮.
+
+Open to work in interesting & challenging projects!
 <!--
 **KhozmoS/khozmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🔭 I’m currently working on Vlue LLC as a front end engineer
