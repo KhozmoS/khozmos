@@ -5,7 +5,7 @@
 
 
 
- I enjoy my weekends participating in programming competitions 🥇 (most part of the time in  [CodeForces](https://codeforces.com/profile/KhozmoS)),
+ I enjoy my weekends participating in programming competitions 🥇 (most part of the time on  [CodeForces](https://codeforces.com/profile/KhozmoS)),
 or playing some video games 🎮.
 
 
