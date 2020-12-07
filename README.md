@@ -2,14 +2,11 @@
  I'm a 25 years old software engineer currently working as frontend developer in [VLUE LLC](https://www.vlue.com).
 
 
- Checkout my [online resume](https://khozmos.github.io/khozmos-resume/) for detailed insights about me 🧐.
-
-
  I enjoy my weekends participating in programming competitions 🥇 (most part of the time on  [CodeForces](https://codeforces.com/profile/KhozmoS)),
 or playing some video games 🎮.
 
 
-
+Checkout my [online resume](https://khozmos.github.io/khozmos-resume/) for detailed insights about me 🧐.
 
 
  🚀 Open to work in interesting & challenging projects!
