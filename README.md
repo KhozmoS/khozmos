@@ -1,5 +1,5 @@
 ### Hi there 👋.
- I'm a 25 years old software engineer currently working as frontend developer in VLUE LLC.
+ I'm a 25 years old software engineer currently working as frontend developer in [VLUE LLC](https://www.vlue.com).
 
 
 
