@@ -1,5 +1,5 @@
 ### Hi there 👋.
- I'm a 25 years old software engineer currently working as frontend developer in [VLUE LLC](https://www.vlue.com).
+ I'm a 25 years old software engineer currently working as a frontend developer in [VLUE LLC](https://www.vlue.com).
 
 
  I enjoy my weekends participating in programming competitions 🥇 (most part of the time on  [CodeForces](https://codeforces.com/profile/KhozmoS)),
