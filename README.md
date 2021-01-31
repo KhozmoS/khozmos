@@ -1,7 +1,26 @@
 ### Hi there 👋.
  I'm a software engineer currently working as a frontend developer.
 
-
+ #### Proficient with:
+  * Javascript / Typescript
+  * HTML
+  * CSS / SASS
+  * React js / Redux
+  * Vue js / Vuex
+  * Angular 2+
+  * RxJs
+  * Git
+  * Graph QL
+  * Micro-frontend / Single SPA
+  * Scrum
+  
+ #### Familiar with:
+  * Node js / Nest js
+  * Python / Django
+  * MongoDB
+  * Electron js
+  * Storybook
+  
  I enjoy my weekends participating in programming competitions 🥇 (most part of the time on  [CodeForces](https://codeforces.com/profile/KhozmoS)),
 or playing some video games.
 
