@@ -1,5 +1,5 @@
 ### Hi there 👋.
- I'm a software engineer currently working as a fullstack developer.
+ I'm a software engineer currently working as a fullstack developer, mainly with cloud technologies (aws as provider).
 
  #### Proficient with:
   * Javascript / Typescript
