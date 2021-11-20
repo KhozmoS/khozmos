@@ -1,5 +1,5 @@
 ### Hi there 👋.
- I'm a software engineer currently working as a frontend developer.
+ I'm a software engineer currently working as a fullstack developer.
 
  #### Proficient with:
   * Javascript / Typescript
