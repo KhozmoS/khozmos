@@ -13,13 +13,27 @@
   * Graph QL
   * Micro-frontend / Single SPA
   * Scrum
+  * AWS: 
+    - AWS Lambda
+    - AWS DynamoDB
+    - AWS RDS
+    - AWS Cognito
+    - AWS SNS/SQS/EventBridge
+    - AWS Appsync
+    - AWS ApiGateway
+    - AWS SSM
+    - AWS S3
+    - ...
   
  #### Familiar with:
   * Node js / Nest js
-  * Python / Django
+  * Python
   * MongoDB
   * Electron js
   * Storybook
+  * EC2
+  * ECS
+  * Docker
   
  I enjoy my weekends participating in programming competitions 🥇 (most part of the time on  [CodeForces](https://codeforces.com/profile/KhozmoS)),
 or playing some video games.
